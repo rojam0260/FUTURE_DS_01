@@ -45,5 +45,7 @@ It highlights the ability to transform raw data into meaningful business insight
 
 ---
 
-👩‍💻 *Created by:* Roja M  
+👩‍💻 *Created by:* Roja M 
+Email: rojam0260@gmail.com
+LinkedIn: http://linkedin.com/in/rojam
 📌 Data Analyst (Fresher)

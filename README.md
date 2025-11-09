@@ -31,8 +31,6 @@ The goal of this project is to identify key business insights, such as profit tr
 
 ---
 
----
-
 ### 📁 Project Files
 | File Name | Description |
 |------------|--------------|
